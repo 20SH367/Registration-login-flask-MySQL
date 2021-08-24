@@ -11,7 +11,7 @@ app.secret_key = 'godislove'
 
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = '245165nehaJOB'
+app.config['MYSQL_PASSWORD'] = 'psw of yours'
 app.config['MYSQL_DB'] = 'pricecomparisionlogin'
 
 mysql = MySQL(app)
